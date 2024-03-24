@@ -1,0 +1,93 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+h1 {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+h2 {
+  position: absolute;
+  width: 829px;
+  height: 88px;
+  left: 546px;
+  right: 545px;
+  top: 681px;
+  bottom: 311px;
+
+  color: rgb(0, 33, 60);
+  font-family: Jost;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 116.5%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+#logo {
+  width: 120px;
+  height: 62px;
+  left: 200px;
+  right: 1600px;
+  top: 52px;
+  bottom: 966px;
+}
+
+.menu {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-family: Jost;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 25px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+#about {
+  /* О нас */
+  position: absolute;
+  width: 46px;
+  height: 25px;
+  left: 1037px;
+  right: 837px;
+  top: 70px;
+  bottom: 985px;
+}
+
+#courses {
+  position: absolute;
+  width: 97px;
+  height: 25px;
+  left: 1141px;
+  right: 682px;
+  top: 70px;
+  bottom: 985px;
+}
+
+#feedback {
+  position: absolute;
+  width: 59px;
+  height: 25px;
+  left: 1296px;
+  right: 565px;
+  top: 70px;
+  bottom: 985px;
+}
+#contacts {
+  position: absolute;
+  width: 69px;
+  height: 25px;
+  left: 1413px;
+  right: 438px;
+  top: 70px;
+  bottom: 985px;
+}
